@@ -1,0 +1,9 @@
+<?php include('hder.php');?>
+<?php include('menu.php');?>
+<?php include('slide2.php');?>
+<?php include('blockservice.php');?>
+<?php include('pr.php');?>
+<?php include('kancha.php');?>
+<?php include('cpr.php');?>
+<?php include('prefooter.php');?>
+<?php include('footer.php');?>
